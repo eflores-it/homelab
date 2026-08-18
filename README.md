@@ -23,6 +23,8 @@ Set up an Ubuntu Desktop virtual machine using VirtualBox to gain hands-on exper
 ### Issue 1 — Ubuntu VM Boot/Display Error
 
 When I initially started the Ubuntu VM, I encountered a boot/display error that prevented Ubuntu from starting correctly.
+<img width="949" height="704" alt="Screenshot 2026-08-17 191554" src="https://github.com/user-attachments/assets/b48bbd84-780b-4a83-b471-c1538a446aa9" />
+
 
 #### Initial Configuration
 
