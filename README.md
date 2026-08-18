@@ -45,14 +45,20 @@ I opened the VirtualBox settings for the Ubuntu VM and navigated to:
 I changed the Graphics Controller from:
 
 **VMSVGA → VBoxSVGA**
+<img width="949" height="564" alt="Screenshot 2026-08-18 115855" src="https://github.com/user-attachments/assets/f5fcd617-4877-4292-a770-72c2fb1e8d03" />
+
 
 I then restarted the virtual machine and attempted to boot Ubuntu again.
 
 #### Result
+<img width="851" height="785" alt="Screenshot 2026-08-17 192703" src="https://github.com/user-attachments/assets/ed34577b-fe74-4efd-87c3-c55f484d88f4" />
+
 
 **Resolved.**
 
 After changing the Graphics Controller to **VBoxSVGA**, the Ubuntu VM successfully booted and I was able to proceed with the Ubuntu installation.
+<img width="942" height="858" alt="Screenshot 2026-08-17 193011" src="https://github.com/user-attachments/assets/5a9dbb52-aaf6-407d-96e4-ddb6f910ad9e" />
+
 
 #### What I Learned
 
