@@ -57,7 +57,6 @@ I then restarted the virtual machine and attempted to boot Ubuntu again.
 **Resolved.**
 
 After changing the Graphics Controller to **VBoxSVGA**, the Ubuntu VM successfully booted and I was able to proceed with the Ubuntu installation.
-<img width="942" height="858" alt="Screenshot 2026-08-17 193011" src="https://github.com/user-attachments/assets/5a9dbb52-aaf6-407d-96e4-ddb6f910ad9e" />
 
 
 #### What I Learned
@@ -75,6 +74,8 @@ After changing the Graphics Controller to **VBoxSVGA**, the Ubuntu VM successful
 After successfully resolving the VM boot issue, I proceeded with the Ubuntu installation.
 
 During the installation process, the **Next** button became unresponsive and clicking it did not advance to the next installation step.
+<img width="942" height="858" alt="Screenshot 2026-08-17 193011" src="https://github.com/user-attachments/assets/262a582c-225f-484e-94ba-459b9b4232db" />
+
 
 #### Troubleshooting Attempted
 
