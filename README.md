@@ -31,6 +31,8 @@ When I initially started the Ubuntu VM, I encountered a boot/display error that 
 The VirtualBox Graphics Controller was set to the default option:
 
 - Graphics Controller: **VMSVGA**
+- <img width="1073" height="626" alt="image" src="https://github.com/user-attachments/assets/a84dc0f5-d81d-4be1-816b-e3d8f6cb6120" />
+
 
 With this configuration, the VM produced an error during startup and Ubuntu would not boot correctly.
 
